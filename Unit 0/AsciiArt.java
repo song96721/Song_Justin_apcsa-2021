@@ -17,9 +17,9 @@ public class AsciiArt
 		System.out.println("   \\_____/             " );
 		System.out.println("   |_0_0_|              " );
 		System.out.println("    _| |_               " );
-    System.out.println("   |_| |_|              " );
-    System.out.println("  ___|_|___             " );
-    System.out.println(" |___|_|___|            " );
+    		System.out.println("   |_| |_|              " );
+    		System.out.println("  ___|_|___             " );
+    		System.out.println(" |___|_|___|            " );
 		//add other output
 
 		System.out.println(" \n\n\n\nHelpFul Hints" );
