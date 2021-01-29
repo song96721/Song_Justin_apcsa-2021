@@ -12,23 +12,23 @@ public class AsciiBox
 	{
 		System.out.println("Justin Song \t  1/28/21 \n\n" );
 		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA " );
-    System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%% " );
-    System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&& " );
-    System.out.println("------------------------- " );
-    System.out.println("+++++++++++++++++++++++++ " );
-    System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>> " );
-    System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<< " );
-    System.out.println("+++++++++++++++++++++++++ " );
-    System.out.println("+++++++++++++++++++++++++ " );
-    System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA " );
-    System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%% " );
-    System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&& " );
-    System.out.println("------------------------- " );
-    System.out.println("+++++++++++++++++++++++++ " );
-    System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>> " );
-    System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<< " );
-    System.out.println("+++++++++++++++++++++++++ " );
-    System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%% " );
+    		System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&& " );
+    		System.out.println("------------------------- " );
+    		System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>> " );
+    		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<< " );
+    		System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA " );
+    		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%% " );
+   	 	System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&& " );
+    		System.out.println("------------------------- " );
+    		System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>> " );
+    		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<< " );
+    		System.out.println("+++++++++++++++++++++++++ " );
+    		System.out.println("+++++++++++++++++++++++++ " );
 
 	}
 }
