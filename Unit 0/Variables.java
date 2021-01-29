@@ -18,16 +18,16 @@ public class Variables
 
 		//integer variables
 		byte byteOne = 117;
-    short shortOne = 43;
-    int intOne = 34;
-    long longOne = 68;
+    		short shortOne = 43;
+    		int intOne = 34;
+   		long longOne = 68;
 
 		//decimal variables
-    float floatOne = 36.67948f;
-    double doubleOne = 46.983;
+    		float floatOne = 36.67948f;
+    		double doubleOne = 46.983;
 
 		//other integer types
-    char charOne = 'B';
+    		char charOne = 'B';
 
 		//other types
 		boolean booleanOne = false;
