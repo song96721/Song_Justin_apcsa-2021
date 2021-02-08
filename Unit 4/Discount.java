@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Discount
 {
-	public static double getDiscountedBill(double bill){
+  public static double getDiscountedBill(double bill){
     double b;
     if (bill > 2000)
     {
