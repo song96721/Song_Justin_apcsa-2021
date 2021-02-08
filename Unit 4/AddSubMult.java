@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class AddSubMult
 {
-	public static double check( double a, double b ){
+  public static double check( double a, double b ){
     double sub;
     if (a > b)
     {
@@ -22,5 +22,5 @@ public class AddSubMult
       sub = (a * b);
     }
     return sub;
-	}
+  }
 }
