@@ -22,22 +22,22 @@ public class NumberVerifyRunner
 		System.out.println(n +" is odd :: " + NumberVerify.isOdd(n));
 		System.out.println(n +" is even :: " + NumberVerify.isEven(n));
 
-    out.print("Enter a whole number :: ");
+    		out.print("Enter a whole number :: ");
 		n = keyboard.nextInt();
 		System.out.println(n +" is odd :: " + NumberVerify.isOdd(n));
 		System.out.println(n +" is even :: " + NumberVerify.isEven(n));
     
-    out.print("Enter a whole number :: ");
+    		out.print("Enter a whole number :: ");
 		n = keyboard.nextInt();
 		System.out.println(n +" is odd :: " + NumberVerify.isOdd(n));
 		System.out.println(n +" is even :: " + NumberVerify.isEven(n));
 
-    out.print("Enter a whole number :: ");
+    		out.print("Enter a whole number :: ");
 		n = keyboard.nextInt();
 		System.out.println(n +" is odd :: " + NumberVerify.isOdd(n));
 		System.out.println(n +" is even :: " + NumberVerify.isEven(n));
 
-    out.print("Enter a whole number :: ");
+    		out.print("Enter a whole number :: ");
 		n = keyboard.nextInt();
 		System.out.println(n +" is odd :: " + NumberVerify.isOdd(n));
 		System.out.println(n +" is even :: " + NumberVerify.isEven(n));
