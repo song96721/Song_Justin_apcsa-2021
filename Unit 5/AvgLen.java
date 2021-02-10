@@ -6,13 +6,13 @@
 public class AvgLen
 {
    public static double go( String a, String b )
-	{
+  {
     double A;
     double B;
     double C;
-		A = (double)a.length();
+    A = (double)a.length();
     B = (double)b.length();
     C = (A + B)/2;
     return C;
-	}
+   }
 }
