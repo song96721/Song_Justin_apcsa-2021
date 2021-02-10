@@ -15,17 +15,17 @@ public class StringOddOrEven
 
 	public StringOddOrEven()
 	{
-    word = "cat";
+    		word = "cat";
 	}
 
 	public StringOddOrEven(String s)
 	{
-    word = s;
+    		word = s;
 	}
 
 	public void setString(String s)
 	{
-    word = s;
+    		word = s;
 	}
 
  	public boolean isEven()
@@ -35,16 +35,16 @@ public class StringOddOrEven
 
  	public String toString()
  	{
-    if (isEven())
-    {
-      String output = word + " is even." + "\n";
-      return output;
-    }
-    else
-    {
-      String output = word + " is odd." + "\n";
-      return output;
-    }
+    		if (isEven())
+    		{
+      			String output = word + " is even." + "\n";
+      			return output;
+    		}
+    		else
+    		{
+      			String output = word + " is odd." + "\n";
+      			return output;
+    		}
     
 	}
 }
