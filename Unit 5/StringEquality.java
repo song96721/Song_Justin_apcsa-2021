@@ -14,37 +14,37 @@ public class StringEquality
 
 	public StringEquality()
 	{
-    w1 = "hello";
-    w2 = "goodbye";
+    		w1 = "hello";
+    		w2 = "goodbye";
 	}
 
 	public StringEquality(String one, String two)
 	{
-    w1 = one;
-    w2 = two;
+    		w1 = one;
+    		w2 = two;
 	}
 
 	public void setWords(String one, String two)
 	{
-    w1 = one;
-    w2 = two;
+    		w1 = one;
+    		w2 = two;
 	}
 
 	public boolean checkEquality( )
 	{
-    return w1.equals(w2);
+    		return w1.equals(w2);
 	}
 
 	public String toString()
 	{
-    if (checkEquality())
-    {
-      return w1 + " has the same letters as " + w2 + "\n";
-    }
-    else
-    {
-      return w1 + " does not have the same letters as " + w2 + "\n";
-    }
+    		if (checkEquality())
+    		{
+      			return w1 + " has the same letters as " + w2 + "\n";
+    		}
+    		else
+    		{
+      			return w1 + " does not have the same letters as " + w2 + "\n";
+    		}
 		
 	}
 }
