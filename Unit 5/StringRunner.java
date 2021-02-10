@@ -13,28 +13,28 @@ public class StringRunner
 {
 	public static void main ( String[] args )
 	{
-    StringOddOrEven test = new StringOddOrEven();
+    		StringOddOrEven test = new StringOddOrEven();
 		System.out.println(test.toString());
 
-    test = new StringOddOrEven("boot");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("boot");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("it");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("it");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("a");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("a");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("eleven");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("eleven");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("thirteen");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("thirteen");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("odd");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("odd");
+    		System.out.println(test.toString());
 
-    test = new StringOddOrEven("even");
-    System.out.println(test.toString());
+    		test = new StringOddOrEven("even");
+    		System.out.println(test.toString());
 	}
 }
