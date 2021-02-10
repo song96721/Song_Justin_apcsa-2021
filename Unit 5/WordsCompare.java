@@ -11,29 +11,29 @@ import static java.lang.System.*;
 public class WordsCompare
 {
 	private String w1, w2;
-   private int compare;
+   	private int compare;
 
 	public WordsCompare()
 	{
-    w1 = "abe";
-    w2 = "ape";
+    		w1 = "abe";
+    		w2 = "ape";
 	}
 
 	public WordsCompare(String one, String two)
 	{
-    w1 = one;
-    w2 = two;
+    		w1 = one;
+    		w2 = two;
 	}
 
 	public void setWords(String one, String two)
 	{
-    w1 = one;
-    w2 = two;
+    		w1 = one;
+    		w2 = two;
 	}
 
 	public void compare()
 	{
-    compare = w1.compareTo(w2);
+    		compare = w1.compareTo(w2);
 	}
 
 	public String toString()
