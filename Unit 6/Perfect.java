@@ -8,7 +8,7 @@ public class Perfect
 {
   private int number;
 
-	public Perfect()
+  public Perfect()
   {
     number = 496;
   }
@@ -23,8 +23,8 @@ public class Perfect
     number = num;
   }
 
-	public boolean isPerfect()
-	{
+  public boolean isPerfect()
+  {
     int count = 0;
     int i = 1;
     while (i <= number/2)
@@ -43,7 +43,7 @@ public class Perfect
     {
       return false;
     }
-	}
+  }
 
   public String toString()
   {
