@@ -8,7 +8,7 @@ public class PerfectRunner
 {
 	public static void main( String args[] )
 	{
-		Perfect num = new Perfect();
+		    Perfect num = new Perfect();
     		System.out.println(num.toString());
 
     		num =  new Perfect(45);

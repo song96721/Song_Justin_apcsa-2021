@@ -8,7 +8,7 @@ public class LetterRemoverRunner
 {
 	public static void main( String args[] )
 	{
-		LetterRemover sentence = new LetterRemover();
+		    LetterRemover sentence = new LetterRemover();
     		System.out.println(sentence);	
     		sentence = new LetterRemover("ssssssssxssssesssssesss", 's');
     		System.out.println(sentence);	

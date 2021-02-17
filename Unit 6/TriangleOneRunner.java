@@ -8,7 +8,7 @@ public class TriangleOneRunner
 {
 	public static void main ( String[] args )
 	{
-		TriangleOne Triangle = new TriangleOne("hippo");
+		    TriangleOne Triangle = new TriangleOne("hippo");
     		Triangle.print();
 
     		Triangle = new TriangleOne("abcd");

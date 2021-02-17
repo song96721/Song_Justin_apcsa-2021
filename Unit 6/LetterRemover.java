@@ -11,15 +11,15 @@ public class LetterRemover
 
 	public LetterRemover()
 	{
-    		sentence = "I am Sam I am   a";
+    sentence = "I am Sam I am   a";
 		lookFor = 'a';
 	}
 
-  	public LetterRemover(String s, char rem)
-  	{
-    		sentence = s;
-    		lookFor = rem;
-  	}
+  public LetterRemover(String s, char rem)
+  {
+    sentence = s;
+    lookFor = rem;
+  }
 
 	public void setRemover(String s, char rem)
 	{
@@ -30,7 +30,7 @@ public class LetterRemover
 	public String removeLetters()
 	{
 		String cleaned = "";
-    		int i = 0;
+    int i = 0;
     		while (i < sentence.length())
     		{
       			if (sentence.charAt(i) != lookFor)
