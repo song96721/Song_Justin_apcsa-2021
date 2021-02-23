@@ -49,9 +49,9 @@ public class TriangleFive
           		output += ch;
         	}
         	output += " ";
-      	}
-      	output += "\n";
+      	 }
+      	 output += "\n";
     }
     return output;
- }
+  } 
 }
