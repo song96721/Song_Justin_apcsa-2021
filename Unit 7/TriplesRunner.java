@@ -10,5 +10,5 @@ public class TriplesRunner
    {
      Triples triples = new Triples(110);
      System.out.println(triples);
-	 }
+   }
 }
