@@ -11,9 +11,9 @@ public class RPSRunner
 	{
 		playagain();
 	}
-  public static void playagain()
-  {
-    Scanner keyboard = new Scanner(System.in);
+  	public static void playagain()
+  	{
+    		Scanner keyboard = new Scanner(System.in);
 		char response;
 		
 			String player = "";
@@ -21,14 +21,14 @@ public class RPSRunner
 			out.print("type in your prompt [R,P,S] :: ");
 		
 			RockPaperScissors game = new RockPaperScissors(keyboard.nextLine());
-      System.out.println(game);
+      			System.out.println(game);
 
-      System.out.print("\nDo you want to play again? (y/n) :: ");
-      if (keyboard.nextLine().equals("y"))
-      {
-        playagain();
-      }
-  }
+      			System.out.print("\nDo you want to play again? (y/n) :: ");
+      			if (keyboard.nextLine().equals("y"))
+      			{
+        			playagain();
+      			}
+  	}
 }
 
 
