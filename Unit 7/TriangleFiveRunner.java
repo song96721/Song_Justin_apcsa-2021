@@ -22,8 +22,5 @@ public class TriangleFiveRunner
 
      triangle = new TriangleFive('Z', 8);
      System.out.println(triangle);
-
-
-
-	 }
+   }
 }
