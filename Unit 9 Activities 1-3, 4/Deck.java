@@ -96,7 +96,7 @@ public class Deck
             }
         }
 
-        rtn = rtn + "\n";
+        rtn = rtn + "\n"; 
         return rtn;
     }
 }
