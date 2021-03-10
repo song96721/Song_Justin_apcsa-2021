@@ -13,9 +13,9 @@ public class ListDown
 	public static boolean go(List<Integer> numArray)
 	{
 		for(int i = 0; i < numArray.size() - 1; i++) 
-    {
+    		{
 			if(numArray.get(i+1) >= numArray.get(i)) 
-      {
+      			{
 				return false;
 			}
 		}
