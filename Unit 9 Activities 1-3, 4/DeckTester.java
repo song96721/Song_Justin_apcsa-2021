@@ -12,7 +12,7 @@ public class DeckTester {
         System.out.println("Initial Deck Methods:");
         System.out.println("toString:\n" + d.toString());
         System.out.println("isEmpty: " + d.isEmpty());
-        System.out.println("size: " + d.length());
+        System.out.println("size: " + d.size());
         System.out.println();
         
 
@@ -24,7 +24,7 @@ public class DeckTester {
         System.out.println("Deck Methods After 1 Card Dealt:");
         System.out.println("toString:\n" + d.toString());
         System.out.println("isEmpty: " + d.isEmpty());
-        System.out.println("size: " + d.length());
+        System.out.println("size: " + d.size());
         System.out.println();
       
 
@@ -39,7 +39,7 @@ public class DeckTester {
         System.out.println("Final Deck Methods:");
         System.out.println("toString:\n" + d.toString());
         System.out.println("isEmpty: " + d.isEmpty());
-        System.out.println("size: " + d.length());
+        System.out.println("size: " + d.size());
         System.out.println();
        
 
