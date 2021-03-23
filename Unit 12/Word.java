@@ -30,7 +30,7 @@ public class Word implements Comparable<Word>
     }
 		else
     {
-    return 0;
+      return 0;
     }
 	}
 

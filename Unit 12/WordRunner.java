@@ -13,6 +13,7 @@ public class WordRunner
 	public static void main( String args[] ) throws IOException
 	{
 		Scanner file = new Scanner(new File("words.dat"));
+    
 		int s = file.nextInt();
     System.out.println(s);
 	  Word[] words = new Word[s];
