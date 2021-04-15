@@ -11,7 +11,7 @@ public class GridRunner
 {
 	public static void main( String args[] ) throws IOException
 	{
-    Grid Grid = new Grid(20, 20, new String[] {"a", "b", "c", "7", "9", "x", "2"});
+    		Grid Grid = new Grid(20, 20, new String[] {"a", "b", "c", "7", "9", "x", "2"});
 		System.out.println(Grid);
 		System.out.println("a count is " + Grid.countVals("a"));
 		System.out.println("b count is " + Grid.countVals("b"));
