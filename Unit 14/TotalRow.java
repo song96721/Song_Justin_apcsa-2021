@@ -9,7 +9,7 @@ public class TotalRow
     public static List<Integer> getRowTotals( int[][] m )
     {
     	//add code here
-      int count;
+      	int count;
     	ArrayList<Integer> totals = new ArrayList<Integer>();
     	for (int j = 0; j < m.length; j++)
     	{
@@ -20,6 +20,6 @@ public class TotalRow
     		}
     		totals.add(count);
     	}
-		  return totals;
+	return totals;
     }
 }
