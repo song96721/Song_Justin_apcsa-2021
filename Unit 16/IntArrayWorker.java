@@ -18,19 +18,19 @@ public class IntArrayWorker
 
   public int getCount(int c)
   {
-    int total = 0;
+    int count = 0;
     for (int a = 0; a < matrix.length; a++)
     {
       for (int b = 0; b < matrix[0].length; b++)
       {
         if (matrix[a][b] == c)
         {
-          total++;
+          count++;
         }
       }
 
     }
-    return total;
+    return count;
   }
 
   public int getLargest()
@@ -51,12 +51,12 @@ public class IntArrayWorker
 
   public int getColTotal(int ct)
   {
-    int ctotal = 0;
+    int ccount = 0;
     for (int a = 0; a < matrix.length; a++)
     {
-      ctotal = ctotal + matrix[a][ct];
+      ccount = ccount + matrix[a][ct];
     }
-    return ctotal;
+    return ccount;
   }
 
   public int getTotal()
