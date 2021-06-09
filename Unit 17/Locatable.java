@@ -1,7 +1,7 @@
-//© A+ Computer Science  -  www.apluscompsci.com
-//Name -
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
+//Name - Justin Song
 //Date -
-//Class -
+//Class - APCSA Period 3
 //Lab  -
 
 public interface Locatable

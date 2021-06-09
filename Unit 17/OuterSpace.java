@@ -1,6 +1,6 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - Justin Song
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -20,11 +20,10 @@ public class OuterSpace extends Canvas implements KeyListener, Runnable
 	private Alien alienOne;
 	private Alien alienTwo;
 
-	/* uncomment once you are ready for this part
-	 *
-   private AlienHorde horde;
+
+  private AlienHorde horde;
 	private Bullets shots;
-	*/
+	
 
 	private boolean[] keys;
 	private BufferedImage back;
